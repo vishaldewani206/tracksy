@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@import "./App.css";
+
+
+@font-face {
+  font-family: 'Google Sans';
+  src: url("/fonts/GoogleSans-VariableFont_GRAD,opsz,wght.ttf");
+}
+
+@font-face {
+  font-family: 'Google Sans Italic';
+  src: url("/fonts/GoogleSans-Italic-VariableFont_GRAD,opsz,wght.ttf");
+}
+
+
+@theme {
+  --font-sans: "Google Sans";
+}
