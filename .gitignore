@@ -1,54 +1,54 @@
 #frontend
-website/frontend/logs
-website/frontend/*.log
-website/frontend/npm-debug.log*
-website/frontend/yarn-debug.log*
-website/frontend/yarn-error.log*
-website/frontend/pnpm-debug.log*
-website/frontend/lerna-debug.log*
-website/frontend/node_modules
-website/frontend/dist
-website/frontend/dist-ssr
-website/frontend/*.local
-website/frontend/# Editor directories and files
-website/frontend/.vscode/*
-website/frontend/!.vscode/extensions.json
-website/frontend/.idea
-website/frontend/.DS_Store
-website/frontend/*.suo
-website/frontend/*.ntvs*
-website/frontend/*.njsproj
-website/frontend/*.sln
-website/frontend/*.sw?
+frontend/logs
+frontend/*.log
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+frontend/lerna-debug.log*
+frontend/node_modules
+frontend/dist
+frontend/dist-ssr
+frontend/*.local
+frontend/# Editor directories and files
+frontend/.vscode/*
+frontend/!.vscode/extensions.json
+frontend/.idea
+frontend/.DS_Store
+frontend/*.suo
+frontend/*.ntvs*
+frontend/*.njsproj
+frontend/*.sln
+frontend/*.sw?
 
 
 #admin
 # Logs
-website/admin/logs
-website/admin/*.log
-website/admin/npm-debug.log*
-website/admin/yarn-debug.log*
-website/admin/yarn-error.log*
-website/admin/pnpm-debug.log*
-website/admin/lerna-debug.log*
-website/admin/node_modules
-website/admin/dist
-website/admin/dist-ssr
-website/admin/*.local
-website/admin/# Editor directories and files
-website/admin/.vscode/*
-website/admin/!.vscode/extensions.json
-website/admin/.idea
-website/admin/.DS_Store
-website/admin/*.suo
-website/admin/*.ntvs*
-website/admin/*.njsproj
-website/admin/*.sln
-website/admin/*.sw?
+admin/logs
+admin/*.log
+admin/npm-debug.log*
+admin/yarn-debug.log*
+admin/yarn-error.log*
+admin/pnpm-debug.log*
+admin/lerna-debug.log*
+admin/node_modules
+admin/dist
+admin/dist-ssr
+admin/*.local
+admin/# Editor directories and files
+admin/.vscode/*
+admin/!.vscode/extensions.json
+admin/.idea
+admin/.DS_Store
+admin/*.suo
+admin/*.ntvs*
+admin/*.njsproj
+admin/*.sln
+admin/*.sw?
 
 
 
 
 #backend
-website/backend/.env
-website/backend/node_modules
+backend/.env
+backend/node_modules
